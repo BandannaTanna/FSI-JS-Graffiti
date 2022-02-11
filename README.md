@@ -1,4 +1,5 @@
 # JS Graffiti
+The dog jumped over the cat 
 
 This is an activity for FSWD Lesson 1.11.1- The Document Object Model.
 
